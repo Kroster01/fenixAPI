@@ -1,0 +1,31 @@
+//Crear variable de entorno
+export LD_LIBRARY_PATH=/opt/instantclient_18_5/
+
+//Visualizar Variable de entorno
+echo $LD_LIBRARY_PATH
+
+
+//si en dado casoo les tira error de libai.so.1
+sudo apt-get install libaio1
+
+Video:
+https://www.youtube.com/watch?v=NuHrW-qHd-k
+
+
+
+npm init --y
+
+
+npm i express cors morgan oracledbnpm i express cors morgan oracledb
+
+        ultima version
+        "oracledb": "^5.1.0"
+        version del video:
+        "oracledb": "^4.2.0"
+
+npm i nodemon -d
+
+        ultima version
+        "nodemon": "^2.0.7"
+        version del video:
+        nodemon": "^2.0.3"
